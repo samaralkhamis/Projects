@@ -5,10 +5,12 @@
 1. HTML
 2. CSS 
 3. Bootstrap
-4. Flex 
-
-[MocKup](https://www.figma.com/file/PHBarhWXbFWISqtsA9iz04/Untitled?node-id=0%3A1)
 
 
+[MocKup Link](https://www.figma.com/file/PHBarhWXbFWISqtsA9iz04/Untitled?node-id=0%3A1)
+
+## WireFrame Page 1
 ![WireFramePage1](./Protofile/Img/pii.png)
+
+## WireFrame Page 2
 ![WirFramePage2](./Protofile/Img/pii1.png)

@@ -6,7 +6,6 @@
 2. CSS 
 3. Bootstrap
 
-
 [MocKup Link](https://www.figma.com/file/PHBarhWXbFWISqtsA9iz04/Untitled?node-id=0%3A1)
 
 ## WireFrame Page 1
